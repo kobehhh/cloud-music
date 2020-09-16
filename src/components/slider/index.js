@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { SliderContainer } from './style';
-// import "swiper/css/swiper.less";
+import 'swiper/swiper-bundle.css'
 import Swiper from "swiper";
 
 function Slider (props) {
